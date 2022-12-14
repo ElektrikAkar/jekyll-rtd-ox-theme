@@ -10,7 +10,7 @@ $theme-green: #1abc9c;
 $theme-orange: #e67e22;
 
 $theme-white: lighten($black, 99%);
-$theme-black: lighten($black, 15%);
+$theme-black: $theme-blue; //lighten($black, 15%);
 
 // theme link
 $theme-link: $blue;
