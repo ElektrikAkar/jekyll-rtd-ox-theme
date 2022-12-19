@@ -5675,7 +5675,7 @@ p.explain .minibutton {
 
 .sidebar {
     color: #fff;
-    background: rgb(0, 32, 72)
+    background: #262c31;
 }
 
 .sidebar a {
@@ -5925,7 +5925,8 @@ p.explain .minibutton {
 
 .header {
     color: #fff;
-    background: #2980b9
+    background: #2980b9;
+
 }
 
 .header input {
